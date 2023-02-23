@@ -1,0 +1,6 @@
+dataset/*
+__pycache__/
+requirements.txt
+versions
+version_7
+model.ipynb
